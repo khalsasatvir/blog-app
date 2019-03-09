@@ -15,7 +15,7 @@ $config=[
 
        'base_url' => base_url('admin/welcome'),
 
-       'per_page' =>3,
+       'per_page' =>4,
 
        'total_rows' => $this->ar->num_rows(),
 
