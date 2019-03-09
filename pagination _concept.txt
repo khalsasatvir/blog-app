@@ -1,0 +1,18 @@
+Things  needed  to implement pagination.
+
+1. library('pagination');
+
+
+2. URL
+
+
+3. what no  of rows u  want to  show  Per_page
+
+
+4. total_rows in the database.
+
+
+5.intialize($config);
+
+
+6.URL segment:  $this->uri->segment(3)

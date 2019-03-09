@@ -1,0 +1,53 @@
+project structure:-
+
+Blog Name : TP2k16
+
+
+User Interface
+
+         --  View Article 
+     
+         --  View Article in Multiples forms
+
+
+
+
+
+  Admin Interface:
+
+              -- Login/Sign up  with logout 
+               
+              -- Add Article 
+
+              -- Edit Article                   
+
+              -- Delete Article 
+
+
+create table article 
+{
+	
+   id, article_title, article_body, user_id
+
+}
+
+
+create table user
+{
+	
+   id, username , password , firstname , lastname 
+
+}
+
+
+
+
+Technologies:- 
+
+--PHP Framework (Codeigniter)
+
+--UI Technologies( Angular JS 1.6)
+
+--CSS (Bootstrap Framwork)
+
+--HTML
